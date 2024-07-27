@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "sdnegeriambarukmo",
+    "name": "ambarukmo",
     "currentPage": "ambarukmo.html",
     "theme": {
       "name": "startm5",
@@ -100,7 +100,7 @@
     "imageResize": true,
     "chatbutton": {},
     "favicon": false,
-    "mbrsiteDomain": "tal8xy4p5v",
+    "mbrsiteDomain": "qo23pauv3a",
     "usedWebp": false,
     "cssOptimize": false,
     "lazyLoad": false,
